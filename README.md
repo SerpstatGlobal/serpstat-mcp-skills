@@ -45,7 +45,7 @@ All skills require the **Serpstat MCP connector** to be enabled in your Claude c
 3. Click **Install from file** and select the downloaded `.skill` file
 4. The skill is now available in your chats — just describe what you want and Claude will trigger it automatically
 
-> Skills are triggered by natural language. You don't need to type a command — just say something like *"Run an SEO report for ahrefs.com"* or *"Find quick wins for my site example.com"*.
+> Skills are triggered by natural language. You don't need to type a command — just say something like *"Run an SEO report for example.com"* or *"Find quick wins for my site example.com"*.
 
 ---
 
@@ -61,9 +61,9 @@ A comprehensive one-page SEO health dashboard for any domain. Covers organic vis
 
 **Trigger phrases:**
 > "Run an SEO report for serpstat.com"
-> "SEO audit of ahrefs.com in the US market"
+> "SEO audit of example.com in the US market"
 > "How is moz.com doing in SEO?"
-> "Give me a full SEO analysis of semrush.com"
+> "Give me a full SEO analysis of anotherdomain.com"
 
 ![SEO Report screenshot](images/seo.png)
 
@@ -98,7 +98,7 @@ Builds a complete content strategy by pulling current keyword rankings, expandin
 **Trigger phrases:**
 > "Build me a content plan for serpstat.com"
 > "What should I write about on my blog? My site is mybrand.com"
-> "Create a content strategy for ahrefs.com vs semrush.com in the US market"
+> "Create a content strategy for example.com vs anotherdomain.com in the US market"
 > "Give me blog topic ideas for example.com"
 
 ![Content Strategy screenshot](images/content.png)
@@ -114,8 +114,8 @@ Deep reverse-engineering of a single competitor's SEO strategy. Pulls 7 data typ
 **Output tabs:** Overview · Top Pages · Keyword Core · Backlink Profile · Historical Dynamics · SWOT & Recommendations
 
 **Trigger phrases:**
-> "Reverse engineer semrush.com's SEO strategy"
-> "Do a competitor deep dive on ahrefs.com"
+> "Reverse engineer anotherdomain.com's SEO strategy"
+> "Do a competitor deep dive on example.com"
 > "How is moz.com getting their traffic?"
 > "Tell me everything about competitor.com's SEO"
 
